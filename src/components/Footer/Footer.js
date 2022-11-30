@@ -26,7 +26,7 @@ const Footer = () => {
                 </div>
 
                 <div className = "footer-item text-center">
-                    <h6 className='fs-17 fw-6'>About Shopping Hub</h6>
+                    <h6 className='fs-17 fw-6'>About Shop Easy</h6>
                     <ul>
                         <li><a href = "/terms" className = "fs-15">Company Info</a></li>
                         <li><a href = "/cookies" className = "fs-15">Branches</a></li>
@@ -43,7 +43,7 @@ const Footer = () => {
                         </li>
                         <li>
                             <span><i className = "fas fa-envelope"></i></span>
-                            <span className = "fs-15">info@shophub.com</span>
+                            <span className = "fs-15">info@shopeasy.com</span>
                         </li>
                     </ul>
                 </div>
